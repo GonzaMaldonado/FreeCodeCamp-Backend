@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "gonzalo maldonado"
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "gonzalo maldonado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
 }
